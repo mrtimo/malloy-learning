@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mrtimo/malloy-learning/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://mrtimo/malloy-learning/</loc>
+</url>
+<url>
+<loc>https://mrtimo/malloy-learning/opening-your-own-csv-files-with-malloy-in-vscode.html</loc>
+<lastmod>2025-01-24T15:43:49-08:00</lastmod>
+<image:image>
+<image:loc>https://mrtimo/malloy-learning/media/posts/1/Screenshot-2025-01-24-at-12.31.15-PM.png</image:loc>
+<image:title><![CDATA[vscode icons]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mrtimo/malloy-learning/media/posts/1/Screenshot-2025-01-24-at-12.32.41-PM.png</image:loc>
+<image:title><![CDATA[new file]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mrtimo/malloy-learning/media/posts/1/Screenshot-2025-01-24-at-12.45.51-PM.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://mrtimo/malloy-learning/media/posts/1/Screenshot-2025-01-24-at-3.39.52-PM.png</image:loc>
+<image:title><![CDATA[utf-8 encoding]]></image:title>
+</image:image>
+</url>
+</urlset>
